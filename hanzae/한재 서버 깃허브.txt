@@ -1,0 +1,432 @@
+{
+  "version": "1.0.0",
+  "rss": "<LINK TO RSS FEED>",
+  "discord": {
+    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+  },
+  "servers": [
+    {
+      "id": "HanJae",
+      "name": "한재야 야옹해봐!",
+      "description": "버전 : 1.12.2",
+      "icon": "https://www.dropbox.com/s/3m954tcjh5pko4u/icon.png?dl=1",
+      "version": "1.0.0",
+      "address": "hanjaeyaong.mcsv.kr",
+      "minecraftVersion": "1.12.2",
+      "discord": {
+        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      },
+      "mainServer": true,
+      "autoconnect": false,
+      "modules": [
+        {
+          "id": "net.minecraftforge:forge:1.12.2-14.23.5.2860:universal",
+          "name": "Minecraft Forge",
+          "type": "ForgeHosted",
+          "artifact": {
+            "size": 4466148,
+            "MD5": "2b5b6ccfa3c6ffcea9073d13d1ec5236",
+            "url": "https://raw.githubusercontent.com/seunghoon4176/PKC-Launcher/main/repo/lib/net/minecraftforge/forge/1.12.2-14.23.5.2860/forge-1.12.2-14.23.5.2860-universal.jar"
+          },
+          "subModules": [
+            {
+              "id": "1.12.2-14.23.5.2860",
+              "name": "Minecraft Forge (version.json)",
+              "type": "VersionManifest",
+              "artifact": {
+                "size": 11799,
+                "MD5": "fdf65dd024faa5c9a51372e5fb975dfe",
+                "url": "https://raw.githubusercontent.com/seunghoon4176/PKC-Launcher/main/repo/versions/1.12.2-forge-14.23.5.2860/1.12.2-forge-14.23.5.2860.json"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-debug-all:5.2@jar",
+              "name": "Minecraft Forge (asm-debug-all)",
+              "type": "Library",
+              "artifact": {
+                "size": 387903,
+                "MD5": "fe5f20404ccdee9769ef05dc4b47ba98",
+                "url": "https://raw.githubusercontent.com/seunghoon4176/PKC-Launcher/main/repo/lib/org/ow2/asm/asm-debug-all/5.2/asm-debug-all-5.2.jar"
+              }
+            },
+            {
+              "id": "net.minecraft:launchwrapper:1.12@jar",
+              "name": "Minecraft Forge (launchwrapper)",
+              "type": "Library",
+              "artifact": {
+                "size": 32999,
+                "MD5": "934b2d91c7c5be4a49577c9e6b40e8da",
+                "url": "https://raw.githubusercontent.com/seunghoon4176/PKC-Launcher/main/repo/lib/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar"
+              }
+            },
+            {
+              "id": "org.jline:jline:3.5.1@jar",
+              "name": "Minecraft Forge (jline)",
+              "type": "Library",
+              "artifact": {
+                "size": 614590,
+                "MD5": "4c20d2879ed2bd75a0771ce29e89f6b0",
+                "url": "https://raw.githubusercontent.com/seunghoon4176/PKC-Launcher/main/repo/lib/org/jline/jline/3.5.1/jline-3.5.1.jar"
+              }
+            },
+            {
+              "id": "com.typesafe.akka:akka-actor_2.11:2.3.3@jar",
+              "name": "Minecraft Forge (akka-actor_2.11)",
+              "type": "Library",
+              "artifact": {
+                "size": 2514991,
+                "MD5": "541440ca0819ebada47d6d1a8b3ee9e1",
+                "url": "https://raw.githubusercontent.com/seunghoon4176/PKC-Launcher/main/repo/lib/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar"
+              }
+            },
+            {
+              "id": "com.typesafe:config:1.2.1@jar",
+              "name": "Minecraft Forge (config)",
+              "type": "Library",
+              "artifact": {
+                "size": 219554,
+                "MD5": "3aaf3c6e76a68e732c17d4a7e9877d81",
+                "url": "https://raw.githubusercontent.com/seunghoon4176/PKC-Launcher/main/repo/lib/com/typesafe/config/1.2.1/config-1.2.1.jar"
+              }
+            },
+            {
+              "id": "org.scala-lang:scala-actors-migration_2.11:1.1.0@jar",
+              "name": "Minecraft Forge (scala-actors-migration_2.11)",
+              "type": "Library",
+              "artifact": {
+                "size": 58018,
+                "MD5": "f5e79398daa1806f8b17311a3c782723",
+                "url": "https://raw.githubusercontent.com/seunghoon4176/PKC-Launcher/main/repo/lib/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar"
+              }
+            },
+            {
+              "id": "org.scala-lang:scala-compiler:2.11.1@jar",
+              "name": "Minecraft Forge (scala-compiler)",
+              "type": "Library",
+              "artifact": {
+                "size": 13449765,
+                "MD5": "06030143bf86ca896fb6ccfd679b5760",
+                "url": "https://raw.githubusercontent.com/seunghoon4176/PKC-Launcher/main/repo/lib/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar"
+              }
+            },
+            {
+              "id": "org.scala-lang.plugins:scala-continuations-library_2.11:1.0.2_mc@jar",
+              "name": "Minecraft Forge (scala-continuations-library_2.11)",
+              "type": "Library",
+              "artifact": {
+                "size": 25365,
+                "MD5": "004d7007abbcee858d3ca2c3ccbcbaab",
+                "url": "https://raw.githubusercontent.com/seunghoon4176/PKC-Launcher/main/repo/lib/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2_mc/scala-continuations-library_2.11-1.0.2_mc.jar"
+              }
+            },
+            {
+              "id": "org.scala-lang.plugins:scala-continuations-plugin_2.11.1:1.0.2_mc@jar",
+              "name": "Minecraft Forge (scala-continuations-plugin_2.11.1)",
+              "type": "Library",
+              "artifact": {
+                "size": 206575,
+                "MD5": "359c4a6743a082c689039482eed78670",
+                "url": "https://raw.githubusercontent.com/seunghoon4176/PKC-Launcher/main/repo/lib/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2_mc/scala-continuations-plugin_2.11.1-1.0.2_mc.jar"
+              }
+            },
+            {
+              "id": "org.scala-lang:scala-library:2.11.1@jar",
+              "name": "Minecraft Forge (scala-library)",
+              "type": "Library",
+              "artifact": {
+                "size": 5538130,
+                "MD5": "1d88f665219e6006c5dd82d71c525c0f",
+                "url": "https://raw.githubusercontent.com/seunghoon4176/PKC-Launcher/main/repo/lib/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar"
+              }
+            },
+            {
+              "id": "org.scala-lang:scala-parser-combinators_2.11:1.0.1@jar",
+              "name": "Minecraft Forge (scala-parser-combinators_2.11)",
+              "type": "Library",
+              "artifact": {
+                "size": 419701,
+                "MD5": "4e694499c965af4a02599c99d4f0b196",
+                "url": "https://raw.githubusercontent.com/seunghoon4176/PKC-Launcher/main/repo/lib/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar"
+              }
+            },
+            {
+              "id": "org.scala-lang:scala-reflect:2.11.1@jar",
+              "name": "Minecraft Forge (scala-reflect)",
+              "type": "Library",
+              "artifact": {
+                "size": 4372892,
+                "MD5": "7878fac044e4e4b576bb35a77ccc34fc",
+                "url": "https://raw.githubusercontent.com/seunghoon4176/PKC-Launcher/main/repo/lib/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar"
+              }
+            },
+            {
+              "id": "org.scala-lang:scala-swing_2.11:1.0.1@jar",
+              "name": "Minecraft Forge (scala-swing_2.11)",
+              "type": "Library",
+              "artifact": {
+                "size": 726500,
+                "MD5": "1009d69e4948045383f2a7a334348af5",
+                "url": "https://raw.githubusercontent.com/seunghoon4176/PKC-Launcher/main/repo/lib/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar"
+              }
+            },
+            {
+              "id": "org.scala-lang:scala-xml_2.11:1.0.2@jar",
+              "name": "Minecraft Forge (scala-xml_2.11)",
+              "type": "Library",
+              "artifact": {
+                "size": 648679,
+                "MD5": "c2d7e66495afe14545c31b21e99879ef",
+                "url": "https://raw.githubusercontent.com/seunghoon4176/PKC-Launcher/main/repo/lib/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar"
+              }
+            },
+            {
+              "id": "lzma:lzma:0.0.1@jar",
+              "name": "Minecraft Forge (lzma)",
+              "type": "Library",
+              "artifact": {
+                "size": 5762,
+                "MD5": "a3e3c3186e41c4a1a3027ba2bb23cdc6",
+                "url": "https://raw.githubusercontent.com/seunghoon4176/PKC-Launcher/main/repo/lib/lzma/lzma/0.0.1/lzma-0.0.1.jar"
+              }
+            },
+            {
+              "id": "java3d:vecmath:1.5.2@jar",
+              "name": "Minecraft Forge (vecmath)",
+              "type": "Library",
+              "artifact": {
+                "size": 318956,
+                "MD5": "e5d2b7f46c4800a32f62ce75676a5710",
+                "url": "https://raw.githubusercontent.com/seunghoon4176/PKC-Launcher/main/repo/lib/java3d/vecmath/1.5.2/vecmath-1.5.2.jar"
+              }
+            },
+            {
+              "id": "net.sf.trove4j:trove4j:3.0.3@jar",
+              "name": "Minecraft Forge (trove4j)",
+              "type": "Library",
+              "artifact": {
+                "size": 2523218,
+                "MD5": "8fc4d4e0129244f9fd39650c5f30feb2",
+                "url": "https://raw.githubusercontent.com/seunghoon4176/PKC-Launcher/main/repo/lib/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar"
+              }
+            },
+            {
+              "id": "org.apache.maven:maven-artifact:3.5.3@jar",
+              "name": "Minecraft Forge (maven-artifact)",
+              "type": "Library",
+              "artifact": {
+                "size": 54961,
+                "MD5": "7741ebf29690ee7d9dde9cf4376347fc",
+                "url": "https://raw.githubusercontent.com/seunghoon4176/PKC-Launcher/main/repo/lib/org/apache/maven/maven-artifact/3.5.3/maven-artifact-3.5.3.jar"
+              }
+            },
+            {
+              "id": "net.sf.jopt-simple:jopt-simple:5.0.3@jar",
+              "name": "Minecraft Forge (jopt-simple)",
+              "type": "Library",
+              "artifact": {
+                "size": 78175,
+                "MD5": "0a5ec84e23df9d7cfb4063bc55f2744c",
+                "url": "https://raw.githubusercontent.com/seunghoon4176/PKC-Launcher/main/repo/lib/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar"
+              }
+            },
+            {
+              "id": "org.apache.logging.log4j:log4j-api:2.15.0@jar",
+              "name": "Minecraft Forge (log4j-api)",
+              "type": "Library",
+              "artifact": {
+                "size": 301804,
+                "MD5": "a9ccfa7e3382dd2b9e0647a43d8286d7",
+                "url": "https://raw.githubusercontent.com/seunghoon4176/PKC-Launcher/main/repo/lib/org/apache/logging/log4j/log4j-api/2.15.0/log4j-api-2.15.0.jar"
+              }
+            },
+            {
+              "id": "org.apache.logging.log4j:log4j-core:2.15.0@jar",
+              "name": "Minecraft Forge (log4j-core)",
+              "type": "Library",
+              "artifact": {
+                "size": 1789769,
+                "MD5": "81e0433ae00602c0e4d00424d213b0ab",
+                "url": "https://raw.githubusercontent.com/seunghoon4176/PKC-Launcher/main/repo/lib/org/apache/logging/log4j/log4j-core/2.15.0/log4j-core-2.15.0.jar"
+              }
+            }
+          ]
+        },
+        {
+          "id": "armourers_workshop:Armourers:Workshop:1.12.2-0.51.0",
+          "name": "Armourers-Workshop-1.12.2-0.51.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2678747,
+            "url": "https://www.dropbox.com/s/t9jh32be3iykkxv/Armourers-Workshop-1.12.2-0.51.0.jar?dl=1",
+            "MD5": "12954551f39bed840b32fd8be8fddb54"
+          }
+        },
+        {
+          "id": "OptiFine:OptiFine:1.12.2_HD_U_G5",
+          "name": "OptiFine 1.12.2_HD_U_G5",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2669107,
+            "url": "https://www.dropbox.com/s/ad6b8q8xm5rl8gf/OptiFine_1.12.2_HD_U_G5.jar?dl=1",
+            "MD5": "54e561e441192cf009803ae95873c5d0"
+          }
+        },
+        {
+          "id": "custommainmenu:CustomMainMenu:MC1.12.2-2.0.9.1",
+          "name": "CustomMainMenu",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 91121,
+            "url": "https://www.dropbox.com/s/x44dmqcq006nwfb/CustomMainMenu-MC1.12.2-2.0.9.1.jar?dl=1",
+            "MD5": "c12200ad89f9399d5bdcbe9da7900bb9"
+          }
+        },
+        {
+          "id": "resourceloader:ResourceLoader:MC1.12.1-1.5.3",
+          "name": "ResourceLoader",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 16612,
+            "url": "https://www.dropbox.com/s/emhy5l382kup6gf/ResourceLoader-MC1.12.1-1.5.3.jar?dl=1",
+            "MD5": "51141e882f96ce756b9b3d25f2acdf57"
+          }
+        },
+        {
+          "id": "BSL_v8.1.01",
+          "name": "BSL_v8.1.01",
+          "type": "File",
+          "artifact": {
+            "size": 927004,
+            "url": "https://www.dropbox.com/s/vss1vvrcnciihls/BSL_v8.1.01.zip?dl=1",
+            "path": "shaderpacks/BSL_v8.1.01.",
+            "MD5": "c00e318757433bf2c9deea92b9614678"
+          }
+        },
+        {
+          "id": "mainmenu",
+          "name": "mainmenu",
+          "type": "File",
+          "artifact": {
+            "size": 3130,
+            "url": "https://www.dropbox.com/s/rh3t548f1yu50fu/mainmenu.json?dl=1",
+            "path": "config/CustomMainMenu/mainmenu.json",
+            "MD5": "6cede714676775368dbee07be481e187"
+          }
+        },
+        {
+          "id": "koreanchat:koreanchat-creo:1.12-1.9",
+          "name": "koreanchatcreo",
+          "type": "ForgeMod",
+          "artifact": {
+              "size": 30763,
+              "MD5": "91492de16021a4f7018eb5d523f45fc2",
+              "url": "https://www.dropbox.com/s/31kg1v26zcnzuw1/koreanchatCreo.jar?dl=1"
+          }
+        },
+        {
+          "id": "1lang",
+          "name": "1lang",
+          "type": "File",
+          "artifact": {
+            "size": 4857,
+            "url": "https://www.dropbox.com/s/p4f04utrcomkz0l/1lang.png?dl=1",
+            "path": "resources/modpack/1lang.png",
+            "MD5": "13508c7ad8dc57089d74983ceac3bfb4"
+          }
+        },
+        {
+          "id": "12exit",
+          "name": "12exit",
+          "type": "File",
+          "artifact": {
+            "size": 13729,
+            "url": "https://www.dropbox.com/s/c8qmvnznqlq0el8/12exit.png?dl=1",
+            "path": "resources/modpack/12exit.png",
+            "MD5": "2a1b2a7ce83348152be23f8bf1a50946"
+          }
+        },
+        {
+          "id": "12pl",
+          "name": "12pl",
+          "type": "File",
+          "artifact": {
+            "size": 16499,
+            "url": "https://www.dropbox.com/s/nf8jamplfcyr0oa/12pl.png?dl=1",
+            "path": "resources/modpack/12pl.png",
+            "MD5": "9fcecbdbabda88f104f8d038937ef44c"
+          }
+        },
+        {
+          "id": "123",
+          "name": "123",
+          "type": "File",
+          "artifact": {
+            "size": 108193,
+            "url": "https://www.dropbox.com/s/vbmp31xsv07swpj/123.png?dl=1",
+            "path": "resources/modpack/123.png",
+            "MD5": "69d53f32de77c359b841a972bdf281e3"
+          }
+        },
+        {
+          "id": "123back",
+          "name": "123back",
+          "type": "File",
+          "artifact": {
+            "size": 10808,
+            "url": "https://www.dropbox.com/s/o6u00ytrbu7o8le/123back.png?dl=1",
+            "path": "resources/modpack/123back.png",
+            "MD5": "6b797ba8ecbc755f20cf6b438ad9e0e8"
+          }
+        },
+        {
+          "id": "321",
+          "name": "321",
+          "type": "File",
+          "artifact": {
+            "size": 111452,
+            "url": "https://www.dropbox.com/s/d5g4z24bag896h3/321.png?dl=1",
+            "path": "resources/modpack/321.png",
+            "MD5": "0b296d66f97ed5e5bdd8a3d6bf96cf00"
+          }
+        },
+        {
+          "id": "1234",
+          "name": "1234",
+          "type": "File",
+          "artifact": {
+            "size": 48861,
+            "url": "https://www.dropbox.com/s/ailu71hlewtyynw/icon.png?dl=1",
+            "path": "resources/modpack/1234.png",
+            "MD5": "cd17062228cee062649e46854ba50392"
+          }
+        },
+        {
+          "id": "mods",
+          "name": "mods",
+          "type": "File",
+          "artifact": {
+            "size": 7836,
+            "url": "https://www.dropbox.com/s/ezp5ya6alxgmie8/mods.png?dl=1",
+            "path": "resources/modpack/mods.png",
+            "MD5": "0f9877d837217ffbb54715cfbdc24159"
+          }
+        },
+        {
+          "id": "op",
+          "name": "op",
+          "type": "File",
+          "artifact": {
+            "size": 14480,
+            "url": "https://www.dropbox.com/s/r39noymxor402f5/op.png?dl=1",
+            "path": "resources/modpack/op.png",
+            "MD5": "6d0dbe2cb6aba56546b6ced30d05bc1c"
+          }
+        }
+      ]
+    }
+  ]
+}
