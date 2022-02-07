@@ -11,7 +11,7 @@
       "id": "Are",
       "name": "아르 포켓몬 서버",
       "description": "버전 : 1.12.2",
-      "icon": "https://www.dropbox.com/s/a5mgfymrzacfxfj/icon.png?dl=1",
+      "icon": "https://raw.githubusercontent.com/seunghoon4176/Server-distributions/main/are/%EC%95%84%EC%9D%B4%EC%BD%98/icon.png",
       "version": "1.0.0",
       "address": "aresv.rtg.kr",
       "minecraftVersion": "1.12.2",
