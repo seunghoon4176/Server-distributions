@@ -11,7 +11,7 @@
       "id": "BBIYAK-RPG-1.7.10",
       "name": "BBIYAK RPG",
       "description": "BBIYAK RPG서버 입니다.",
-      "icon": "https://www.dropbox.com/s/jd9lyg71xokx4eg/icon.jpg?dl=1",
+      "icon": "https://raw.githubusercontent.com/seunghoon4176/Server-distributions/main/bbiyak/아이콘/icon.jpg",
       "version": "1.0.0",
       "address": "byk-rpg.kro.kr",
       "minecraftVersion": "1.7.10",
