@@ -314,16 +314,6 @@
               "MD5": "043ac1db6f7441ea4cf31bcb621aff0b",
               "url": "https://raw.githubusercontent.com/seunghoon4176/Server-distributions/main/are/OptiFine_1.12.2_HD_U_F5.jar"
           }
-        },
-        {
-          "id": "pixelmon:pixelmon:1.12.2",
-          "name": "Pixelmon-1.12.2-8.3.6-universal",
-          "type": "ForgeMod",
-          "artifact": {
-              "size": 384389985,
-              "MD5": "d48816f73ebe54af218dd1d6a51708b2",
-              "url": "https://github.com/loveiu147/are/raw/main/pixelmon/are-pixelmon-8.3.6.jar"
-          }
         }
       ]
     }
