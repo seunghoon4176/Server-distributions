@@ -314,6 +314,16 @@
               "MD5": "043ac1db6f7441ea4cf31bcb621aff0b",
               "url": "https://raw.githubusercontent.com/seunghoon4176/Server-distributions/main/are/OptiFine_1.12.2_HD_U_F5.jar"
           }
+        },
+        {
+          "id": "of:Useful-Interior-Mod:1.12.2",
+          "name": "Useful-Interior-Mod-1.12.2",
+          "type": "ForgeMod",
+          "artifact": {
+              "size": 598831,
+              "MD5": "3f2f0f8079605a069430da7f1307aaba",
+              "url": "https://raw.githubusercontent.com/seunghoon4176/Server-distributions/main/are/Useful-Interior-Mod-1.12.2.jar"
+          }
         }
       ]
     }
