@@ -8,10 +8,10 @@
   },
   "servers": [
     {
-      "id": "npsserver-1.12.2",
-      "name": "npsserver (Minecraft 1.12.2)",
+      "id": "Npsserver-1.12.2",
+      "name": "Npsserver (Minecraft 1.12.2)",
       "description": "npsserver Running Minecraft 1.12.2 (Forge v14.23.5.2860)",
-      "icon": null,
+      "icon": "https://i.ibb.co/ZNm233X/Loading-Seal.png",
       "version": "1.0.0",
       "address": "localhost:25565",
       "minecraftVersion": "1.12.2",
