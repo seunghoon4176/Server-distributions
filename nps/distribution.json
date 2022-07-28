@@ -13,7 +13,7 @@
       "description": "npsserver Running Minecraft 1.12.2 (Forge v14.23.5.2860)",
       "icon": "https://i.ibb.co/ZNm233X/Loading-Seal.png",
       "version": "1.0.0",
-      "address": "npsonline.kro.kr",
+      "address": "npsonline.kro.kr:25565",
       "minecraftVersion": "1.12.2",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
