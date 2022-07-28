@@ -13,7 +13,7 @@
       "description": "npsserver Running Minecraft 1.12.2 (Forge v14.23.5.2860)",
       "icon": "https://i.ibb.co/ZNm233X/Loading-Seal.png",
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "npsonline.kro.kr",
       "minecraftVersion": "1.12.2",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -30,7 +30,7 @@
           "artifact": {
             "size": 4466148,
             "MD5": "2b5b6ccfa3c6ffcea9073d13d1ec5236",
-            "url": "http://localhost:8080/repo/lib/net/minecraftforge/forge/1.12.2-14.23.5.2860/forge-1.12.2-14.23.5.2860-universal.jar"
+            "url": "https://github.com/seunghoon4176/Server-distributions/blob/main/1.12.2%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC/2860%20%ED%8F%AC%EC%A7%80/forge-1.12.2-14.23.5.2860-universal.jar?raw=true"
           },
           "subModules": [
             {
@@ -40,7 +40,7 @@
               "artifact": {
                 "size": 11799,
                 "MD5": "fdf65dd024faa5c9a51372e5fb975dfe",
-                "url": "http://localhost:8080/repo/versions/1.12.2-forge-14.23.5.2860/1.12.2-forge-14.23.5.2860.json"
+                "url": "https://raw.githubusercontent.com/seunghoon4176/Server-distributions/main/1.12.2%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC/2860%20%ED%8F%AC%EC%A7%80/1.12.2-forge-14.23.5.2860.json"
               }
             },
             {
@@ -50,7 +50,7 @@
               "artifact": {
                 "size": 387903,
                 "MD5": "fe5f20404ccdee9769ef05dc4b47ba98",
-                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm-debug-all/5.2/asm-debug-all-5.2.jar"
+                "url": "https://github.com/seunghoon4176/Server-distributions/blob/main/1.12.2%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC/1.12.2%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC/asm-debug-all-5.2.jar?raw=true"
               }
             },
             {
@@ -60,7 +60,7 @@
               "artifact": {
                 "size": 32999,
                 "MD5": "934b2d91c7c5be4a49577c9e6b40e8da",
-                "url": "http://localhost:8080/repo/lib/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar"
+                "url": "https://github.com/seunghoon4176/Server-distributions/blob/main/1.12.2%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC/1.12.2%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC/launchwrapper-1.12.jar?raw=true"
               }
             },
             {
@@ -70,7 +70,7 @@
               "artifact": {
                 "size": 614590,
                 "MD5": "4c20d2879ed2bd75a0771ce29e89f6b0",
-                "url": "http://localhost:8080/repo/lib/org/jline/jline/3.5.1/jline-3.5.1.jar"
+                "url": "https://github.com/seunghoon4176/Server-distributions/blob/main/1.12.2%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC/1.12.2%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC/jline-3.5.1.jar?raw=true"
               }
             },
             {
@@ -80,7 +80,7 @@
               "artifact": {
                 "size": 2514991,
                 "MD5": "541440ca0819ebada47d6d1a8b3ee9e1",
-                "url": "http://localhost:8080/repo/lib/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar"
+                "url": "https://github.com/seunghoon4176/Server-distributions/blob/main/1.12.2%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC/1.12.2%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC/akka-actor_2.11-2.3.3.jar?raw=true"
               }
             },
             {
@@ -90,7 +90,7 @@
               "artifact": {
                 "size": 219554,
                 "MD5": "3aaf3c6e76a68e732c17d4a7e9877d81",
-                "url": "http://localhost:8080/repo/lib/com/typesafe/config/1.2.1/config-1.2.1.jar"
+                "url": "https://github.com/seunghoon4176/Server-distributions/blob/main/1.12.2%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC/1.12.2%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC/config-1.2.1.jar?raw=true"
               }
             },
             {
@@ -100,7 +100,7 @@
               "artifact": {
                 "size": 58018,
                 "MD5": "f5e79398daa1806f8b17311a3c782723",
-                "url": "http://localhost:8080/repo/lib/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar"
+                "url": "https://github.com/seunghoon4176/Server-distributions/blob/main/1.12.2%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC/1.12.2%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC/scala-actors-migration_2.11-1.1.0.jar?raw=true"
               }
             },
             {
@@ -110,7 +110,7 @@
               "artifact": {
                 "size": 13449765,
                 "MD5": "06030143bf86ca896fb6ccfd679b5760",
-                "url": "http://localhost:8080/repo/lib/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar"
+                "url": "https://github.com/seunghoon4176/Server-distributions/blob/main/1.12.2%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC/1.12.2%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC/scala-compiler-2.11.1.jar?raw=true"
               }
             },
             {
@@ -120,7 +120,7 @@
               "artifact": {
                 "size": 25365,
                 "MD5": "004d7007abbcee858d3ca2c3ccbcbaab",
-                "url": "http://localhost:8080/repo/lib/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2_mc/scala-continuations-library_2.11-1.0.2_mc.jar"
+                "url": "https://github.com/seunghoon4176/Server-distributions/blob/main/1.12.2%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC/1.12.2%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC/scala-continuations-library_2.11-1.0.2_mc.jar?raw=true"
               }
             },
             {
@@ -130,7 +130,7 @@
               "artifact": {
                 "size": 206575,
                 "MD5": "359c4a6743a082c689039482eed78670",
-                "url": "http://localhost:8080/repo/lib/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2_mc/scala-continuations-plugin_2.11.1-1.0.2_mc.jar"
+                "url": "https://github.com/seunghoon4176/Server-distributions/blob/main/1.12.2%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC/1.12.2%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC/scala-continuations-plugin_2.11.1-1.0.2_mc.jar?raw=true"
               }
             },
             {
@@ -140,7 +140,7 @@
               "artifact": {
                 "size": 5538130,
                 "MD5": "1d88f665219e6006c5dd82d71c525c0f",
-                "url": "http://localhost:8080/repo/lib/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar"
+                "url": "https://github.com/seunghoon4176/Server-distributions/blob/main/1.12.2%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC/1.12.2%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC/scala-library-2.11.1.jar?raw=true"
               }
             },
             {
@@ -150,7 +150,7 @@
               "artifact": {
                 "size": 419701,
                 "MD5": "4e694499c965af4a02599c99d4f0b196",
-                "url": "http://localhost:8080/repo/lib/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar"
+                "url": "https://github.com/seunghoon4176/Server-distributions/blob/main/1.12.2%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC/1.12.2%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC/scala-parser-combinators_2.11-1.0.1.jar?raw=true"
               }
             },
             {
@@ -160,7 +160,7 @@
               "artifact": {
                 "size": 4372892,
                 "MD5": "7878fac044e4e4b576bb35a77ccc34fc",
-                "url": "http://localhost:8080/repo/lib/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar"
+                "url": "https://github.com/seunghoon4176/Server-distributions/blob/main/1.12.2%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC/1.12.2%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC/scala-reflect-2.11.1.jar?raw=true"
               }
             },
             {
@@ -170,7 +170,7 @@
               "artifact": {
                 "size": 726500,
                 "MD5": "1009d69e4948045383f2a7a334348af5",
-                "url": "http://localhost:8080/repo/lib/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar"
+                "url": "https://github.com/seunghoon4176/Server-distributions/blob/main/1.12.2%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC/1.12.2%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC/scala-swing_2.11-1.0.1.jar?raw=true"
               }
             },
             {
@@ -180,7 +180,7 @@
               "artifact": {
                 "size": 648679,
                 "MD5": "c2d7e66495afe14545c31b21e99879ef",
-                "url": "http://localhost:8080/repo/lib/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar"
+                "url": "https://github.com/seunghoon4176/Server-distributions/blob/main/1.12.2%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC/1.12.2%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC/scala-xml_2.11-1.0.2.jar?raw=true"
               }
             },
             {
@@ -190,7 +190,7 @@
               "artifact": {
                 "size": 5762,
                 "MD5": "a3e3c3186e41c4a1a3027ba2bb23cdc6",
-                "url": "http://localhost:8080/repo/lib/lzma/lzma/0.0.1/lzma-0.0.1.jar"
+                "url": "https://github.com/seunghoon4176/Server-distributions/blob/main/1.12.2%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC/1.12.2%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC/lzma-0.0.1.jar?raw=true"
               }
             },
             {
@@ -200,7 +200,7 @@
               "artifact": {
                 "size": 318956,
                 "MD5": "e5d2b7f46c4800a32f62ce75676a5710",
-                "url": "http://localhost:8080/repo/lib/java3d/vecmath/1.5.2/vecmath-1.5.2.jar"
+                "url": "https://github.com/seunghoon4176/Server-distributions/blob/main/1.12.2%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC/1.12.2%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC/vecmath-1.5.2.jar?raw=true"
               }
             },
             {
@@ -210,7 +210,7 @@
               "artifact": {
                 "size": 2523218,
                 "MD5": "8fc4d4e0129244f9fd39650c5f30feb2",
-                "url": "http://localhost:8080/repo/lib/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar"
+                "url": "https://github.com/seunghoon4176/Server-distributions/blob/main/1.12.2%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC/1.12.2%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC/trove4j-3.0.3.jar?raw=true"
               }
             },
             {
@@ -220,7 +220,7 @@
               "artifact": {
                 "size": 54961,
                 "MD5": "7741ebf29690ee7d9dde9cf4376347fc",
-                "url": "http://localhost:8080/repo/lib/org/apache/maven/maven-artifact/3.5.3/maven-artifact-3.5.3.jar"
+                "url": "https://github.com/seunghoon4176/Server-distributions/blob/main/1.12.2%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC/1.12.2%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC/maven-artifact-3.5.3.jar?raw=true"
               }
             },
             {
@@ -230,7 +230,7 @@
               "artifact": {
                 "size": 78175,
                 "MD5": "0a5ec84e23df9d7cfb4063bc55f2744c",
-                "url": "http://localhost:8080/repo/lib/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar"
+                "url": "https://github.com/seunghoon4176/Server-distributions/blob/main/1.12.2%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC/1.12.2%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC/jopt-simple-5.0.3.jar?raw=true"
               }
             },
             {
@@ -240,7 +240,7 @@
               "artifact": {
                 "size": 301804,
                 "MD5": "a9ccfa7e3382dd2b9e0647a43d8286d7",
-                "url": "http://localhost:8080/repo/lib/org/apache/logging/log4j/log4j-api/2.15.0/log4j-api-2.15.0.jar"
+                "url": "https://github.com/seunghoon4176/Server-distributions/blob/main/1.12.2%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC/1.12.2%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC/log4j-api-2.15.0.jar?raw=true"
               }
             },
             {
@@ -250,7 +250,7 @@
               "artifact": {
                 "size": 1789769,
                 "MD5": "81e0433ae00602c0e4d00424d213b0ab",
-                "url": "http://localhost:8080/repo/lib/org/apache/logging/log4j/log4j-core/2.15.0/log4j-core-2.15.0.jar"
+                "url": "https://github.com/seunghoon4176/Server-distributions/blob/main/1.12.2%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC/1.12.2%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC/log4j-core-2.15.0.jar?raw=true"
               }
             }
           ]
@@ -261,7 +261,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2678747,
-            "url": "http://localhost:8080/servers/npsserver-1.12.2/forgemods/required/Armourers-Workshop-1.12.2-0.51.0.jar",
+            "url": "https://github.com/seunghoon4176/Server-distributions/blob/main/nps/required/Armourers-Workshop-1.12.2-0.51.0.jar?raw=true",
             "MD5": "12954551f39bed840b32fd8be8fddb54"
           }
         },
@@ -271,7 +271,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 736490,
-            "url": "http://localhost:8080/servers/npsserver-1.12.2/forgemods/required/cheezle.jar",
+            "url": "https://github.com/seunghoon4176/Server-distributions/blob/main/nps/required/cheezle.jar?raw=true",
             "MD5": "a78d8e65df16e0b2a7cc33af4082eb67"
           }
         },
@@ -281,7 +281,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 653211,
-            "url": "http://localhost:8080/servers/npsserver-1.12.2/forgemods/optionalon/craftguide.jar",
+            "url": "https://github.com/seunghoon4176/Server-distributions/blob/main/nps/optionalon/craftguide.jar?raw=true",
             "MD5": "1dee4be93d666e2228039c551e927b35"
           },
           "required": {
@@ -294,7 +294,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 13056845,
-            "url": "http://localhost:8080/servers/npsserver-1.12.2/forgemods/required/CustomNPC_0219.jar",
+            "url": "https://github.com/seunghoon4176/Server-distributions/blob/main/nps/required/CustomNPC_0219.jar?raw=true",
             "MD5": "a4cadf9f81b1a1ed0593c97c5dd5d969"
           }
         },
@@ -304,7 +304,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 30763,
-            "url": "http://localhost:8080/servers/npsserver-1.12.2/forgemods/optionalon/koreanchat-creo-1.12-1.9.jar",
+            "url": "https://github.com/seunghoon4176/Server-distributions/blob/main/nps/optionalon/koreanchat-creo-1.12-1.9.jar?raw=true",
             "MD5": "91492de16021a4f7018eb5d523f45fc2"
           },
           "required": {
@@ -317,7 +317,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 6990968,
-            "url": "http://localhost:8080/servers/npsserver-1.12.2/forgemods/optionalon/minimap.jar",
+            "url": "https://github.com/seunghoon4176/Server-distributions/blob/main/nps/optionalon/minimap.jar?raw=true",
             "MD5": "8160b970fc14cff30dff2785bb9f964c"
           },
           "required": {
