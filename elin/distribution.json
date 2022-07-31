@@ -483,6 +483,17 @@
             "url": "https://www.dropbox.com/s/6qf5w6b8kxdzbnr/pix.jar?dl=1",
             "MD5": "dbe485bede70d9b15c87cb7abbc9dcd3"
           }
+        },
+        {
+          "id": "com.resourcepack:Custom_Textures:v1.2",
+          "name": "resourcepack",
+          "type": "File",
+          "artifact": {
+              "size": "222989417",
+              "MD5": "97d707f45b31ddfcda522daf2a75aa9a",
+              "path": "resourcepacks/Custom_Textures_v1.2.zip",
+              "url":"https://www.dropbox.com/s/2rrza4cb2fmv9ax/Custom_Textures_v1.2.zip?dl=1"
+          }
         }
       ]
     }
