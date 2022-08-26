@@ -11,7 +11,7 @@
       "id": "junsungserver-1.12.2",
       "name": "junsungserver (Minecraft 1.12.2)",
       "description": "junsungserver Running Minecraft 1.12.2 (Forge v14.23.5.2860)",
-      "icon": "",
+      "icon": "https://i.ibb.co/jvfvcJf/20220824153644.png",
       "version": "1.0.0",
       "address": ":25565",
       "minecraftVersion": "1.12.2",
@@ -256,13 +256,9 @@
           ]
         },
 
-
-
-
-
-
         {
-          "id": "armourers_workshop:Armourers:Workshop:1.12.2-0.51.0", "name": "Armourers-Workshop-1.12.2-0.51.0",
+          "id": "armourers_workshop:Armourers:Workshop:1.12.2-0.51.0",
+          "name": "Armourers-Workshop-1.12.2-0.51.0",
           "name": "Armourer's Workshop",
           "type": "ForgeMod",
           "artifact": {
@@ -294,13 +290,6 @@
             "MD5": "a4cadf9f81b1a1ed0593c97c5dd5d969"
           }
         },
-
-
-
-
-
-
-
 
         {
           "id": "creo.mod:koreanchat:1.12-1.9@jar",
