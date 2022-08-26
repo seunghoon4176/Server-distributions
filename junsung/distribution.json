@@ -257,27 +257,14 @@
         },
 
         {
-          "id": "armourers_workshop:Armourers:Workshop:1.12.2-0.51.0",
+          "id": "armourers_workshop:Armourers:Workshop:1.12.2-0.50.1",
           "name": "Armourers-Workshop-1.12.2-0.51.0",
           "name": "Armourer's Workshop",
           "type": "ForgeMod",
           "artifact": {
             "size": 2678747,
-            "url": "https://github.com/seunghoon4176/Server-distributions/blob/main/junsung/required/Armourers-Workshop-1.12.2-0.51.0.jar?raw=true",
+            "url": "https://github.com/seunghoon4176/Server-distributions/blob/main/junsung/required/Armourers-Workshop-1.12.2-0.50.1.jar?raw=true",
             "MD5": "12954551f39bed840b32fd8be8fddb54"
-          }
-        },
-        {
-          "id": "mezz.jei:jei:4.16.1.301@jar",
-          "name": "Just Enough Items",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 653211,
-            "url": "https://github.com/seunghoon4176/Server-distributions/blob/main/junsung/required/Armourers-Workshop-1.12.2-0.50.1?raw=true",
-            "MD5": "1dee4be93d666e2228039c551e927b35"
-          },
-          "required": {
-            "value": false
           }
         },
         {
