@@ -13,7 +13,7 @@
       "description": "junsungserver Running Minecraft 1.12.2 (Forge v14.23.5.2860)",
       "icon": "https://i.ibb.co/jvfvcJf/20220824153644.png",
       "version": "1.0.0",
-      "address": ":25565",
+      "address": "pokemon24.mcv.kr:25565",
       "minecraftVersion": "1.12.2",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
