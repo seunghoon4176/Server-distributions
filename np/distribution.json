@@ -257,23 +257,23 @@
         },
 
         {
-          "id": "armourers_workshop:Armourers:Workshop:1.12.2-0.50.1",
+          "id": "armourers_workshop:Armourers:Workshop:1.12.2-0.51.0",
           "name": "Armourers-Workshop-1.12.2-0.51.0",
           "name": "Armourer's Workshop",
           "type": "ForgeMod",
           "artifact": {
             "size": 2678747,
-            "url": "https://github.com/seunghoon4176/Server-distributions/blob/main/junsung/required/Armourers-Workshop-1.12.2-0.50.1.jar?raw=true",
-            "MD5": "7de8f79ffe08269680d5af154bcf2686"
+            "url": "https://github.com/seunghoon4176/Server-distributions/blob/main/nps/required/Armourers-Workshop-1.12.2-0.51.0.jar?raw=true",
+            "MD5": "12954551f39bed840b32fd8be8fddb54"
           }
         },
         {
-          "id": "noppes.npcs:customnpcs:1.12@jar",
-          "name": "CustomNPCs",
+          "id": "CustomNPCs_1.12.2-(05Jul20)",
+          "name": "CustomNPCs_1.12.2-(05Jul20)",
           "type": "ForgeMod",
           "artifact": {
             "size": 13056845,
-            "url": "https://github.com/seunghoon4176/Server-distributions/blob/main/junsung/required/CustomNPC_0219.jar?raw=true",
+            "url": "https://github.com/seunghoon4176/Server-distributions/blob/main/np/required/CustomNPCs_1.12.2-(05Jul20).jar?raw=true",
             "MD5": "a4cadf9f81b1a1ed0593c97c5dd5d969"
           }
         },
