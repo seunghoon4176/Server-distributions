@@ -267,7 +267,7 @@
           }
         },
         {
-          "id": "CustomNPCs_1.12.2-(05Jul20)",
+          "id": "CustomNPCs_1.12.2-(05Jul20)@jar",
           "name": "CustomNPCs_1.12.2-(05Jul20)",
           "type": "ForgeMod",
           "artifact": {
@@ -291,7 +291,7 @@
           }
         },
         {
-          "id": "com.pixelmonmod:pixelmon:1.12.2-8.4.2-pipe10697@jar",
+          "id": "com.pixelmonmod:pixelmon:1.12.2-8.4.0@jar",
           "name": "Pixelmon",
           "type": "ForgeMod",
           "artifact": {
@@ -322,7 +322,7 @@
           }
         },
         {
-          "id": "TrainerCommands-1.12.2-2.5.1-universal",
+          "id": "TrainerCommands-1.12.2-2.5.1-universal@jar",
           "name": "TrainerCommand",
           "type": "ForgeMod",
           "artifact": {
@@ -332,7 +332,7 @@
           }
         },
         {
-          "id": "RemoRaids",
+          "id": "RemoRaids@jar",
           "name": "RemoRaids",
           "type": "ForgeMod",
           "artifact": {
@@ -342,7 +342,7 @@
           }
         },
         {
-          "id": "PixelExtras",
+          "id": "PixelExtras@jar",
           "name": "PixelExtras",
           "type": "ForgeMod",
           "artifact": {
@@ -352,7 +352,7 @@
           }
         },
         {
-          "id": "extrasko",
+          "id": "extrasko@jar",
           "name": "extrasko",
           "type": "ForgeMod",
           "artifact": {
@@ -362,7 +362,7 @@
           }
         },
         {
-          "id": "eventhandler",
+          "id": "eventhandler@jar",
           "name": "eventhandler",
           "type": "ForgeMod",
           "artifact": {
