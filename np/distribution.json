@@ -370,7 +370,77 @@
             "size": 32021,
             "url": "https://github.com/seunghoon4176/Server-distributions/blob/main/np/required/eventhandler.jar?raw=true",
             "MD5": "3341acdda5309aec0a42827b6b590850"
+          },
+          {
+          "id": "moe.plushie:armourers_workshop:1.12.2-0.51.0@jar",
+          "name": "Armourer's Workshop",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2678747,
+            "url": "http://localhost:8080/servers/npmodloader-1.12.2/forgemods/required/Armourers-Workshop-1.12.2-0.51.0.jar",
+            "MD5": "12954551f39bed840b32fd8be8fddb54"
           }
+        },
+        {
+          "id": "noppes.npcs:customnpcs:1.12@jar",
+          "name": "CustomNPCs",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 9913629,
+            "url": "http://localhost:8080/servers/npmodloader-1.12.2/forgemods/required/CustomNPCs.jar",
+            "MD5": "32f4530ada2a26a31037f36056ac5ceb"
+          }
+        },
+        {
+          "id": "com.eventhandler:eventhandler:1.1-SNAPSHOT@jar",
+          "name": "Eventhandler",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 32021,
+            "url": "http://localhost:8080/servers/npmodloader-1.12.2/forgemods/required/eventhandler.jar",
+            "MD5": "3341acdda5309aec0a42827b6b590850"
+          }
+        },
+        {
+          "id": "com.oraxionextras:oraxionextras:1.12.2-1.0@jar",
+          "name": "OraxionExtras",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 23851,
+            "url": "http://localhost:8080/servers/npmodloader-1.12.2/forgemods/required/extrasko.jar",
+            "MD5": "b5cc9b7df16607b5d985c5252933b136"
+          }
+        },
+        {
+          "id": "com.pixelextras:pixelextras:1.12.2-2.5.11-universal@jar",
+          "name": "Pixel Extras",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 165753,
+            "url": "http://localhost:8080/servers/npmodloader-1.12.2/forgemods/required/PixelExtras.jar",
+            "MD5": "f620c03b06177bfd0a122ecb48c92a88"
+          }
+        },
+        {
+          "id": "ca.landonjw:remoraids:1.3.1-SNAPSHOT@jar",
+          "name": "RemoRaids",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 504259,
+            "url": "http://localhost:8080/servers/npmodloader-1.12.2/forgemods/required/RemoRaids.jar",
+            "MD5": "c727107ef1c351dbc720edfe0ca62758"
+          }
+        },
+        {
+          "id": "com.trainercommands:trainercommands:1.12.2-2.5.1-universal@jar",
+          "name": "Pixelmon Trainer Commands",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 34287,
+            "url": "http://localhost:8080/servers/npmodloader-1.12.2/forgemods/required/TrainerCommands.jar",
+            "MD5": "44c32e05478a4e4c2b327a03902b7c93"
+          }
+        }
         }
       ]
     }
