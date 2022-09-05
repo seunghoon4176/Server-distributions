@@ -323,37 +323,37 @@
           }
         },
         {
-          "id": "TrainerCommands-1.12.2-2.5.1-universal@jar",
+          "id": "net.tra:TrainerCommands@jar",
           "name": "TrainerCommand",
           "type": "ForgeMod",
           "artifact": {
             "size": 34287,
-            "url": "https://github.com/seunghoon4176/Server-distributions/blob/main/np/required/TrainerCommands-1.12.2-2.5.1-universal.jar?raw=true",
+            "url": "https://github.com/seunghoon4176/Server-distributions/blob/main/np/required/TrainerCommands.jar?raw=true",
             "MD5": "44c32e05478a4e4c2b327a03902b7c93"
           }
         },
         {
-          "id": "RemoRaids@jar",
+          "id": "net.remo:RemoRaids@jar",
           "name": "RemoRaids",
           "type": "ForgeMod",
           "artifact": {
             "size": 504259,
-            "url": "https://github.com/seunghoon4176/Server-distributions/blob/main/np/required/RemoRaids-1.12.2-1.3.1-SNAPSHOT.jar?raw=true",
+            "url": "https://github.com/seunghoon4176/Server-distributions/blob/main/np/required/RemoRaids.jar?raw=true",
             "MD5": "c727107ef1c351dbc720edfe0ca62758"
           }
         },
         {
-          "id": "PixelExtras@jar",
+          "id": "net.pi:PixelExtras@jar",
           "name": "PixelExtras",
           "type": "ForgeMod",
           "artifact": {
             "size": 165753,
-            "url": "https://github.com/seunghoon4176/Server-distributions/blob/main/np/required/PixelExtras-1.12.2-2.5.15-universal.jar?raw=true",
+            "url": "https://github.com/seunghoon4176/Server-distributions/blob/main/np/required/PixelExtras.jar?raw=true",
             "MD5": "f620c03b06177bfd0a122ecb48c92a88"
           }
         },
         {
-          "id": "extrasko@jar",
+          "id": "net.ex:extrasko@jar",
           "name": "extrasko",
           "type": "ForgeMod",
           "artifact": {
@@ -363,12 +363,12 @@
           }
         },
         {
-          "id": "eventhandler@jar",
+          "id": "id.ev:eventhandler@jar",
           "name": "eventhandler",
           "type": "ForgeMod",
           "artifact": {
             "size": 32021,
-            "url": "https://github.com/seunghoon4176/Server-distributions/blob/main/np/required/eventhandler-1.1-SNAPSHOT.jar?raw=true",
+            "url": "https://github.com/seunghoon4176/Server-distributions/blob/main/np/required/eventhandler.jar?raw=true",
             "MD5": "3341acdda5309aec0a42827b6b590850"
           }
         }
