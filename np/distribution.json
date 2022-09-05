@@ -266,13 +266,14 @@
             "MD5": "12954551f39bed840b32fd8be8fddb54"
           }
         },
+        
         {
-          "id": "CustomNPC@jar",
-          "name": "CustomNPC",
+          "id": "noppes.npcs:customnpcs:1.12@jar",
+          "name": "CustomNPCs",
           "type": "ForgeMod",
           "artifact": {
             "size": 9913629,
-            "url": "https://github.com/seunghoon4176/Server-distributions/blob/main/np/required/CustomNPCs_1.12.2-(05Jul20).jar?raw=true",
+            "url": "https://github.com/seunghoon4176/Server-distributions/blob/main/np/required/CustomNPCs.jar?raw=true",
             "MD5": "32f4530ada2a26a31037f36056ac5ceb"
           }
         },
