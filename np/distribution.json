@@ -267,8 +267,8 @@
           }
         },
         {
-          "id": "CustomNPCs_1.12.2-(05Jul20)@jar",
-          "name": "CustomNPCs_1.12.2-(05Jul20)",
+          "id": "CustomNPCs_1.12.2@jar",
+          "name": "CustomNPCs_1.12.2",
           "type": "ForgeMod",
           "artifact": {
             "size": 9913629,
