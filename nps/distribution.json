@@ -256,8 +256,8 @@
           ]
         },
         {
-          "id": "armourers_workshop:Armourers:Workshop:1.12.2-0.51.0", "name": "Armourers-Workshop-1.12.2-0.51.0",
-          "name": "Armourer's Workshop",
+          "id": "armourers_workshop:Armourers:Workshop:1.12.2-0.51.0",
+          "name": "Armourers-Workshop-1.12.2-0.51.0",
           "type": "ForgeMod",
           "artifact": {
             "size": 2678747,
