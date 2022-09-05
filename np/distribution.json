@@ -339,7 +339,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 23851,
-            "url": "http://localhost:8080/servers/npmodloader-1.12.2/forgemods/required/extrasko.jar",
+            "url": "https://github.com/seunghoon4176/Server-distributions/blob/main/np/required/extrasko.jar?raw=true",
             "MD5": "b5cc9b7df16607b5d985c5252933b136"
           }
         },
